@@ -1,2 +1,3 @@
 # CCSU-APP-GUI-
 This project uses a Python GUI application built with Tkinter that displays campus information including calenders, buildings, faculty, school of business and MIS department specifics. 
+The program also uses Pandas and features a window with a transparant logo, interactive buttons, and specific diplay areas. This project demonstrates the understanding of implementing images, formatting gui contents and more. By combining multiple libraries, the project takes a slightly larger understanding of integrating the data into a user friendly interface. This project has a large quantity of buttons and functions used to manipulate those buttons aswell as a loop using try and except statements. 
